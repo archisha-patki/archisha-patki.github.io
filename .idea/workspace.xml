@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bab1c981-5a16-49a8-9634-e28101b67813" name="Default Changelist" comment="" />
+    <list default="true" id="bab1c981-5a16-49a8-9634-e28101b67813" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +49,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="593" column="9" lean-forward="true" selection-start-line="593" selection-start-column="9" selection-end-line="593" selection-end-column="9" />
+            <state relative-caret-position="373">
+              <caret line="591" column="3" selection-start-line="591" selection-start-column="3" selection-end-line="593" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+            <state relative-caret-position="-33">
+              <caret line="224" column="23" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -90,6 +92,7 @@
       <find>favico</find>
       <find>archisha-</find>
       <find>load</find>
+      <find>loader</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,8 +101,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -231,17 +234,17 @@
         <state relative-caret-position="-1609" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="593" column="9" lean-forward="true" selection-start-line="593" selection-start-column="9" selection-end-line="593" selection-end-column="9" />
+        <state relative-caret-position="-33">
+          <caret line="224" column="23" selection-start-line="224" selection-start-column="17" selection-end-line="224" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        <state relative-caret-position="373">
+          <caret line="591" column="3" selection-start-line="591" selection-start-column="3" selection-end-line="593" selection-end-column="9" />
         </state>
       </provider>
     </entry>
